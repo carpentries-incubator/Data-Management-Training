@@ -6,6 +6,12 @@ projects, and we welcome contributions of all kinds: new lessons, fixes to
 existing material, bug reports, and reviews of proposed changes are all
 welcome.
 
+## Current Contributors
+
+[Michael Coe](https://github.com/michaelcoe) (Lead)
+[Kristin Briney](https://github.com/kbriney)
+[Anton Angelo](https://github.com/antonangelo)
+
 ### Contributor Agreement
 
 By contributing, you agree that we may redistribute your work under [our
