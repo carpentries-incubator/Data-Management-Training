@@ -5,7 +5,9 @@ This lesson is a carpentries adaption of Kristin Briney's "[The Research Data Ma
 ## Lesson Developers and Current Maintainers:
 
 [Michael Coe](https://github.com/michaelcoe) (Lead)
+
 [Kristin Briney](https://github.com/kbriney)
+
 [Anton Angelo](https://github.com/antonangelo)
 
 Please contact the lead, Michael, if you have any questions of feedback about the lesson.
